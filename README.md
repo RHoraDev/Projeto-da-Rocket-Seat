@@ -3,7 +3,7 @@
 <p>
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#mem0-licença">Licença</a>
+  <a href="#mem0-licença">Licença</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
