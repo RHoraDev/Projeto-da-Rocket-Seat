@@ -33,4 +33,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Esse projeto foi 
+Esse projeto foi proposto pelo curso [Discover](3ytm1dn3cw9QT0dIsrg6v4CWFOl4zpxBoC_FIQAvD_BwE), da Rocket Seat.
